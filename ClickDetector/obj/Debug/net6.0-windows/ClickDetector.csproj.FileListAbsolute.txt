@@ -1,0 +1,17 @@
+C:\Users\Sebi\source\repos\ClickDetector\ClickDetector\obj\Debug\net6.0-windows\ClickDetector.csproj.AssemblyReference.cache
+C:\Users\Sebi\source\repos\ClickDetector\ClickDetector\obj\Debug\net6.0-windows\ClickDetector.Form1.resources
+C:\Users\Sebi\source\repos\ClickDetector\ClickDetector\obj\Debug\net6.0-windows\ClickDetector.csproj.GenerateResource.cache
+C:\Users\Sebi\source\repos\ClickDetector\ClickDetector\obj\Debug\net6.0-windows\ClickDetector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebi\source\repos\ClickDetector\ClickDetector\obj\Debug\net6.0-windows\ClickDetector.AssemblyInfoInputs.cache
+C:\Users\Sebi\source\repos\ClickDetector\ClickDetector\obj\Debug\net6.0-windows\ClickDetector.AssemblyInfo.cs
+C:\Users\Sebi\source\repos\ClickDetector\ClickDetector\obj\Debug\net6.0-windows\ClickDetector.csproj.CoreCompileInputs.cache
+C:\Users\Sebi\source\repos\ClickDetector\ClickDetector\bin\Debug\net6.0-windows\ClickDetector.exe
+C:\Users\Sebi\source\repos\ClickDetector\ClickDetector\bin\Debug\net6.0-windows\ClickDetector.deps.json
+C:\Users\Sebi\source\repos\ClickDetector\ClickDetector\bin\Debug\net6.0-windows\ClickDetector.runtimeconfig.json
+C:\Users\Sebi\source\repos\ClickDetector\ClickDetector\bin\Debug\net6.0-windows\ClickDetector.dll
+C:\Users\Sebi\source\repos\ClickDetector\ClickDetector\bin\Debug\net6.0-windows\ClickDetector.pdb
+C:\Users\Sebi\source\repos\ClickDetector\ClickDetector\obj\Debug\net6.0-windows\ClickDetector.dll
+C:\Users\Sebi\source\repos\ClickDetector\ClickDetector\obj\Debug\net6.0-windows\refint\ClickDetector.dll
+C:\Users\Sebi\source\repos\ClickDetector\ClickDetector\obj\Debug\net6.0-windows\ClickDetector.pdb
+C:\Users\Sebi\source\repos\ClickDetector\ClickDetector\obj\Debug\net6.0-windows\ClickDetector.genruntimeconfig.cache
+C:\Users\Sebi\source\repos\ClickDetector\ClickDetector\obj\Debug\net6.0-windows\ref\ClickDetector.dll
